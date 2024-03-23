@@ -1,2 +1,2 @@
 # ai_translator
-AI翻译应用学习开发
+AI翻译应用练习
