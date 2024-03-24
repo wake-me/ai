@@ -2,7 +2,7 @@
  * @Author: error: error: git config user.name & please set dead value or install git && error: git config user.email & please set dead value or install git & please set dead value or install git
  * @Date: 2024-03-23 20:47:09
  * @LastEditors: error: error: git config user.name & please set dead value or install git && error: git config user.email & please set dead value or install git & please set dead value or install git
- * @LastEditTime: 2024-03-24 11:45:01
+ * @LastEditTime: 2024-03-24 12:00:31
  * @FilePath: \ai_translator\README.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -14,7 +14,7 @@ AI翻译应用练习
 
 ### 环境准备
 
-1.克隆仓库 `git clone git@github.com:DjangoPeng/openai-translator.git`。
+1.克隆仓库 `git clone https://github.com/wake-me/ai_translator.git`。
 
 2.OpenAI-翻译器 需要 Python 3.6 或更高版本。使用 `pip install -r requirements.txt` 安装依赖项。
 
