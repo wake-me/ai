@@ -1,8 +1,8 @@
 <!--
  * @Author: error: error: git config user.name & please set dead value or install git && error: git config user.email & please set dead value or install git & please set dead value or install git
  * @Date: 2024-03-23 20:47:09
- * @LastEditors: error: error: git config user.name & please set dead value or install git && error: git config user.email & please set dead value or install git & please set dead value or install git
- * @LastEditTime: 2024-03-24 12:00:31
+ * @LastEditors: wenqi hi.fanwenqi@gmail.com
+ * @LastEditTime: 2024-03-24 12:20:08
  * @FilePath: \ai_translator\README.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -48,7 +48,7 @@ common:
 python ai_translator/main.py
 ```
 
-![sample_out](images/sample_image_1.png)
+![sample_out](images/image.png)
 
 #### 使用命令行参数
 
@@ -57,7 +57,7 @@ python ai_translator/main.py
 ```bash
 # 将您的 api_key 设置为环境变量
 export OPENAI_API_KEY="sk-xxx"
-python ai_translator/main.py --model_type OpenAIModel --openai_api_key $OPENAI_API_KEY --file_format markdown --book tests/test.pdf --openai_model gpt-3.5-turbo
+python api/main.py --model_type OpenAIModel --openai_api_key $OPENAI_API_KEY --file_format markdown --book tests/test.pdf --openai_model gpt-3.5-turbo
 ```
 
 这是使用 GLM 模型的例子：
